@@ -8,21 +8,7 @@ Welcome to the ! This web application is designed to replicate the popular Unspl
 
 
 
-## Screenshots
 
-Here are some screenshots of the Dream-Studio in action:
-
-**Homepage**
-![Screenshot 1](screenshots/Screenshot%201.jpg)
-
-**Searching for Images**
-![Screenshot 2](screenshots/Screenshot%202.jpg)
-
-**Image Preview**
-![Screenshot 3](screenshots/Screenshot%203.jpg)
-
-**Some quick options**
-![Screenshot 4](screenshots/Screenshot%204.jpg)
 
 ## Technologies Used
 
